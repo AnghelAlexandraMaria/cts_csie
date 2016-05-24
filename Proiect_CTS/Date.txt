@@ -1,0 +1,4 @@
+P043 ciocolata 1
+O645 cooler 0
+P342 bere 1
+O4342 detergent 0
